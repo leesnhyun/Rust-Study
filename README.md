@@ -1,7 +1,8 @@
 # inswave-rust
 
-| Chapter | 일정 |
-|---------|------|
-|         |      |
-|         |      |
-|         |      |
+<table>
+   <tr>
+     <td>Chapter</td>
+     <td>일정</td>
+   </tr>
+</table>
